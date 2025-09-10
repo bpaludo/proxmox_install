@@ -34,4 +34,5 @@ FQDN usar: nomedopc.lan
 
 Após instalar, retirar o pendrive e rebootar. Entrar na Bios novamente e colocar o SSD principal no primeiro disco no boot order
 
-
+Entrar na UI do Proxmox, no shell:
+rodar o script do proxmox post install e Proxmox VE Processor Microcode
